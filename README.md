@@ -1,4 +1,4 @@
-# audible
+# sounds
 ```
 maven-project/
 ├── resource-service/
