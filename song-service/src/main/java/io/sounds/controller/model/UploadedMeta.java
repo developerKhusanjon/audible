@@ -7,6 +7,6 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class UploadedMP3 {
+public class UploadedMeta {
     private Long id;
 }
