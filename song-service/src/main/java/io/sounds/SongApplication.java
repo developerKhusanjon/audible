@@ -1,6 +1,6 @@
 package io.sounds;
 
-public class Main {
+public class SongApplication {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
